@@ -67,7 +67,7 @@ six==1.16.0
 sympy==1.13.1
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
-tensorflow==2.12.1  # Keeping this version for compatibility
+tensorflow==2.12.1
 tensorstore==0.1.66
 termcolor==2.5.0
 tf_keras==2.17.0
