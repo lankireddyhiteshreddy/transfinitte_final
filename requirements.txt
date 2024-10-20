@@ -1,4 +1,5 @@
 pip==24.2
+--upgrade pip
 absl-py==2.1.0
 astunparse==1.6.3
 autopep8==2.3.1
@@ -68,7 +69,7 @@ sympy==1.13.1
 tensorboard==2.17.1
 tensorboard-data-server==0.7.2
 tensorflow==2.12.1 
-tensorflow-intel==2.18.0 
+tensorflow-intel==2.15.0 
 tensorstore==0.1.66
 termcolor==2.5.0
 tf_keras==2.17.0
